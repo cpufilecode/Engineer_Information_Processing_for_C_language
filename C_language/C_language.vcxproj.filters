@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="c_118.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="C문제2번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
