@@ -19,7 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="c_118.c" />
     <ClCompile Include="C문제2번.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
