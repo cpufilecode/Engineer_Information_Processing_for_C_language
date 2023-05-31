@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="c문제4번.c">
+    <ClCompile Include="c문제5번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
