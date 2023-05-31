@@ -18,8 +18,5 @@
     <ClCompile Include="c문제4번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="c문제2번.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
