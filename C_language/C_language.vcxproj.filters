@@ -18,22 +18,19 @@
     <ClCompile Include="..\118\c_118.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\118\c_119.c">
+    <ClCompile Include="..\118\118_2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\118\c문제2번.c">
+    <ClCompile Include="..\118\118_4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\118\c문제4번.c">
+    <ClCompile Include="..\118\118_5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\118\c문제5번.c">
+    <ClCompile Include="..\118\118_6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\118\c문제6번.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\118\c문제10번.c">
+    <ClCompile Include="..\118\118_10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
