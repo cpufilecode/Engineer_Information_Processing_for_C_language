@@ -19,7 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="120_2.c" />
     <ClCompile Include="120_3.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
