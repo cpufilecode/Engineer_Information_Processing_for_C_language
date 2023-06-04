@@ -18,14 +18,6 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\118\c_118.c" />
-    <ClCompile Include="..\118\118_10.c" />
-    <ClCompile Include="..\118\118_2.c" />
-    <ClCompile Include="..\118\118_4.c" />
-    <ClCompile Include="..\118\118_5.c" />
-    <ClCompile Include="..\118\118_6.c" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
