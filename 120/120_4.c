@@ -11,4 +11,4 @@ void main()
 		sum = sum + b[i - 1] + a[i];
 	}
 	printf("%d", sum);
-}
+} 
