@@ -5,6 +5,6 @@ int func(int a) {
 }
 int main() {
 	int a;
-	scanf("%d", &a);
+	scanf_s("%d", &a);
 	printf("%d", func(a));
 }
